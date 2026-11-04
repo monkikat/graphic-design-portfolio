@@ -1,5 +1,3 @@
-# Hey, I'm Noha 👋
-
 **Design Portfolio** · Game Art & Animation · Web & UI Design · Data Visualization
 
 I like working on projects where design takes different forms, from animating game characters and building playful interfaces to creating websites and visualizing data. Here's a collection of some of the things I've made.
